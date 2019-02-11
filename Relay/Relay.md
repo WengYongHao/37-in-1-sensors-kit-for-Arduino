@@ -39,5 +39,5 @@ USB data cable × 1<br>
 Led indicator × 1<br>
 Resistance of resistance 330 × 1<br>
 <br>
-Physical connection for reference:
+Physical connection for reference:<br>
 ![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/Relay/IMG/20190211212939.png)
