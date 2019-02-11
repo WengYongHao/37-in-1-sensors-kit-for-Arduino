@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/two-color%20LED%20(common-cathode)%20module/IMG/1.png)
 
 
-<b>3mm red and green two-color LED (common-cathode) module<b>
+<b>3mm red and green two-color LED (common-cathode) module<\b>
 	Luminous color: green + red<br>
 	Diameter: 3mm<br>
 	Package color: none<br>
