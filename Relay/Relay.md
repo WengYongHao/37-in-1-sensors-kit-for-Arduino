@@ -1,4 +1,4 @@
-#Main Purpose
+<b>Main Purpose</b><br>
 The relay is an automatic switching element with isolation function, which is widely used in remote control, telemetry, communication, automatic control,<br>
 Among the mechatronics and power electronics, it is one of the most important control components.<br>
 It comes down to the following effects:<br>
@@ -12,7 +12,7 @@ In order to achieve the predetermined control effect.<br>
 Making lines for automated operation
 
 
-#Precautions
+<b>Precautions</b><br>
 1) Rated working voltage: refers to the voltage required by the coil when the relay is working normally.<br>
 That is, the control voltage of the control circuit. Depending on the type of relay, it can be AC<br>
 The voltage can also be a DC voltage.<br>
@@ -26,7 +26,7 @@ At a certain level, the relay will return to the unpowered release state. The cu
 The voltage and current should not exceed this value when used, otherwise it will easily damage the contacts of the relay.
 
 
-#Module Test
+<b>Module Test</b><br>
 The pin description is as follows:
 ![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/Relay/IMG/20190211210333.jpg)
 
@@ -37,7 +37,7 @@ Arduino Controller × 1<br>
 USB data cable × 1<br>
 1 way relay module × 1<br>
 Led indicator × 1<br>
-Resistance of resistance 330 × 1
-
-#Physical connection for reference
+Resistance of resistance 330 × 1<br>
+<br>
+Physical connection for reference:
 ![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/Relay/IMG/20190211212939.png)
