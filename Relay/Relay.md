@@ -29,3 +29,15 @@ The voltage and current should not exceed this value when used, otherwise it wil
 #Module Test
 The pin description is as follows:
 ![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/Relay/IMG/20190211210333.jpg)
+
+Description: COM is connected to VCC, and NO is connected to the anode of the LED we want to control.<br>
+When the relay is turned on, the LED will light up;<br>
+Look at what you need to prepare to complete this test. They have specific<br>
+Arduino Controller × 1<br>
+USB data cable × 1<br>
+1 way relay module × 1<br>
+Led indicator × 1<br>
+Resistance of resistance 330 × 1
+
+#Physical connection for reference
+![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/Relay/IMG/20190211212939.png)
