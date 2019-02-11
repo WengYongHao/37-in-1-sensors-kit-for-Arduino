@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/SMD-color/IMG/1.png)
+![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/SMD%20RGB/IMG/1.png)
 
 3 color - full color LED module<br>
 <br>
