@@ -41,3 +41,20 @@ Resistance of resistance 330 × 1<br>
 <br>
 Physical connection for reference:<br>
 ![](https://raw.githubusercontent.com/WengYongHao/37-in-1-sensors-kit-for-Arduino/master/Relay/IMG/20190211212939.png)
+
+```c
+int relay = 10; //Relay turn-on trigger signal - active high
+
+void setup()
+{
+ pinMode(relay,OUTPUT); //Define port properties as output
+}
+void loop()
+{
+ digitalWrite(relay,HIGH); //The relay is turned on
+ delay(1000);
+ digitalWrite(relay,LOW); //Relay switch disconnected
+ delay(1000);
+} 
+```
+
